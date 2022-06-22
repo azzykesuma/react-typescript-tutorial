@@ -16,7 +16,6 @@ const App:React.FC = () => {
     }
     settodo('')
   }
-  console.log(todos);
   return (
     <div className="App">
       <div className="span heading">TASKIFY</div>
